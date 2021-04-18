@@ -1,10 +1,10 @@
-# staff
+# Staff
 
-## Ceo
+## CEO
 
 ### James harris
 
-## coo
+## COO
 
 ### Stem
 
